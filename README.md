@@ -24,9 +24,14 @@ Hello! I'm Eeshan, an Information Systems Master’s Graduate from the Universit
 - Graduate Teaching Assistant & SMSA Ambassador
 
 ### 📈 Projects
-- **eCommerce Customer Behavior Trend Analysis**: Utilized Python, Spark, and AWS to analyze and forecast eCommerce customer behavior trends.
-- **Data Visualization for Bikeshare Operations**: Explored and visualized data using Tableau to uncover changes in bikeshare operations post-COVID.
-- **Predictive Modeling for Airbnb Booking Rates**: Developed models in R to predict high booking rates, achieving a 0.83 AUC.
+Explore a collection of analytical endeavors within my repositories, where data meets discovery. Below are highlights of my work:
+
+- **eCommerce Customer Behavior Trend Analysis**: Leveraged Python, Spark, and AWS to delve into and predict trends in eCommerce customer behaviors.
+- **Data Visualization for Bikeshare Operations**: Utilized Tableau to bring to light shifts in bikeshare operations in the wake of COVID-19, presenting an engaging visual analysis.
+- **Predictive Modeling for Airbnb Booking Rates**: Employed R to construct predictive models, achieving a notable 0.83 AUC in forecasting high booking rates on Airbnb.
+
+These projects represent just a glimpse into the breadth of my explorations. For more detailed insights and additional projects, I invite you to peruse my repositories.
+
 
 ### 📫 How to Reach Me
 - **Email**: eeshan.agarwal6@gmail.com
