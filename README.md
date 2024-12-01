@@ -1,20 +1,38 @@
 <h2 align="left">Hi 👋! My name is Eeshan and I'm a Data Enthusiast.</h2>
 
-Hello! I'm Eeshan, an Information Systems Master’s Graduate from the University of Maryland with a passion for data analytics, ETL application development, and eCommerce technology. With 3+ years of experience at Accenture and DynPro, I've honed my skills in Python, SQL, Tableau, R, and Java, and I'm always eager to tackle new challenges and innovate solutions.
+Hello! I'm Eeshan, an Information Systems Master’s Graduate from the University of Maryland with a passion for data analytics, ETL application development, healthcare and eCommerce technology. With 4+ years of experience at Accenture and DynPro, I've honed my skills in Python, SQL, Tableau, R, and Java, and I'm always eager to tackle new challenges and innovate solutions.
 
 ### 📚 Education
 - **Master of Science in Information Systems**, University of Maryland, Dec 2023
 - **Bachelor of Technology in Computer Science and Engineering**, Amity University, May 2019
 
 ### 💼 Experience
-- **Digital Tech Developer Analyst**, Accenture (Aug 2019 - Jun 2022)
+- **Data Analyst**, HarmonyCares (May 2024 - Present)
+- **AI Transformation Business Intelligence Analyst**, Hewlett-Packard (HP) (Feb 2024 - May 2024)
 - **Data Business Analyst Intern**, DynPro Inc. (Jul 2023 - Aug 2023)
+- **Associate Consultant**, Accenture (Aug 2019 - Jun 2022)
 
-### 🛠️ Skills
-- **Languages**: Python, SQL, R, JAVA, JavaScript, XML
-- **Tools & Technologies**: AWS, Tableau, PowerBI, Google Analytics, Jupyter Notebooks, Visual Studio, Snowflake, Kafka, SAP Commerce (Hybris), REST API Integrations
-- **Frameworks**: Agile, Scrum
-- **Certifications**: AWS Certified Developer, SAP Hybris Developer, Certified Tableau Desktop Specialist, Alteryx Foundation
+## 🛠️ Skills
+- **Programming & Analytics**:  
+  Python (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch), R, SQL, JavaScript (for Power BI custom visuals)  
+- **Data Visualization**:  
+  Power BI, Tableau, AWS QuickSight, Matplotlib, Seaborn, Plotly, Excel (Pivot Tables, VBA, Power Query)  
+- **Database Management**:  
+  SQL, MongoDB, MySQL, PostgreSQL, Oracle, Snowflake, Redshift, BigQuery, Teradata  
+- **Big Data & ETL Tools**:  
+  Apache Spark, Snowflake, Apache Airflow, SSIS  
+- **Cloud Platforms**:  
+  AWS (S3, Redshift, SageMaker, CloudWatch, Lambda), Google Cloud Platform (BigQuery, Data Studio, DataFlow), Azure (Data Factory, Synapse, Logic Apps)  
+- **Statistical & ML Techniques**:  
+  Predictive Modeling, Sentiment Analysis, Statistical Testing (ANOVA, Chi-square), Time Series Analysis, Data Cleaning, Feature Engineering, A/B Testing, Dimensionality Reduction  
+- **Version Control & Collaboration**:  
+  Git, GitHub, Bitbucket, Jira, Confluence  
+- **Other Tools**:  
+  Microsoft Power Automate, Google Analytics, Adobe Analytics, Salesforce, Postman, REST API integration  
+- **Data Governance & Compliance**:  
+  Data Privacy (GDPR, HIPAA), Metadata Management, Data Quality Frameworks  
+- **Soft Skills**:  
+  Stakeholder Management, Collaboration, Effective Communication, Data Storytelling, Problem Solving, Time Management
 
 ### 🏆 Achievements
 - Innovation Champion at Accenture
